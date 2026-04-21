@@ -59,9 +59,8 @@ An automated environmental monitoring and safety system built on the **STM32F103
 ---
 
 ## 👤 Author
-**Name:** Your Name  
-**Roll No:** Your Roll Number  
-**Project Date:** April 2026
+**Name:** Joyeeta Dhar   
+**Project Date:** 21 April 2026
 
 ---
 *Developed for STM32 Microcontroller Laboratory.*
